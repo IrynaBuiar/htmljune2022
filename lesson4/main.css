@@ -1,0 +1,66 @@
+.wrap {
+    width: 600px;
+    height: 800px;
+    display: flow;
+    padding-left: 400px;
+
+}
+
+.gray1 {
+    width: 600px;
+    height: 75px;
+    background: gray;
+    position: relative;
+}
+.blue {
+    width: 600px;
+    height: 400px;
+    background: blue;
+    position: relative;
+}
+.gray2{
+    width: 600px;
+    height: 150px;
+    background: gray;
+}
+.box{
+    width: 75px;
+    height: 75px;
+    background: lightcoral;
+    border-radius: 10px;
+}
+.midl {
+    width: 600px;
+    height: 75px;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    bottom: -35px;
+}
+.but {
+    width: 100px;
+    height: 30px;
+    background: blue;
+    border-radius: 10px;
+    position: absolute;
+    top: 25px;
+    padding-left: 40px;
+    margin-left: 20px;
+
+}
+.icon {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 35px;
+    padding-left: 450px;
+}
+.logo {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 35px;
+    padding-left: 500px;
+
+}
+

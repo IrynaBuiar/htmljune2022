@@ -1,0 +1,54 @@
+.head { background: aqua;
+    height:200px;
+    margin:20px;
+    Display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.Big {
+    background: aqua;
+    height:200px;
+    width: 480px;
+    margin:10px;
+    Display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.Bigger {
+    background: aqua;
+    height:200px;
+    width: 480px;
+    margin:10px;
+    Display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.Biggest {
+    background: aqua;
+    height:200px;
+    width: 480px;
+    margin:10px;
+    Display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.midle {
+
+    display: flex;
+    justify-content: space-between;
+}
+.Botton {
+    background: aqua;
+    height:200px;
+    margin:20px;
+    Display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.father {
+    font-weight: bold;
+    font-size: xxx-large;
+}
+

@@ -26,14 +26,6 @@
     text-align: center;
     font-size: 40px;
     border: 2px solid black;
-    position: relative;
-}
-.B {
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 100px;
-    padding-left: 240px;
 }
 .c{
     width: 40%;
@@ -43,14 +35,6 @@
     text-align: center;
     font-size: 40px;
     border: 2px solid black;
-    position: relative;
-}
-.C  {
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 100px;
-    padding-left: 170px;
 }
 @media screen and (max-width: 1200px) {
     .midle {
